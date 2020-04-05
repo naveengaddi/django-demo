@@ -1,6 +1,11 @@
 "# django-demo" 
 
 
+#Dependency
+
+python installed.
+django-admin (2 and above version)
+
 #Imp
 run all migrations
 python manage.py migrate
