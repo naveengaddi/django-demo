@@ -1,22 +1,22 @@
 "# django-demo" 
 
 
-#Dependency
+# Dependency
 
-python installed.
-django-admin (2 and above version)
+1. python installed.
+2. django-admin (2 and above version)
 
-#Imp
+# Imp
 run all migrations
-python manage.py migrate
-python manage.py makemigrations dapp
-python manage.py migrate
+1. python manage.py migrate
+2. python manage.py makemigrations dapp
+3. python manage.py migrate
 
-#to create superuser
-python manage.py createsuperuser
+# to create superuser
+1. python manage.py createsuperuser
 
 
 # To run project
 run
-	python manage.py runserver
+1. python manage.py runserver
 
